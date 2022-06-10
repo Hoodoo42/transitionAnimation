@@ -1,0 +1,35 @@
+h1{
+    background-color: blueviolet;
+    width: 200px;
+
+    transition: width 1s ease-in-out
+}
+
+h1:hover{
+    width: 180px;
+    background-color: blue;
+}
+
+h3{
+    background-color: brown;
+    width: 300px;
+    transition: width 1s ease-in-out
+}
+
+h3:hover{
+    width: 280px;
+    background-color: rgb(255, 0, 30);
+}
+
+p{
+    background-color: chartreuse;
+    width: 250px;
+
+    transition: width 1s ease-in-out
+}
+
+p:hover{
+    width: 500px;
+    background-color: rgb(255, 0, 187);
+
+}
